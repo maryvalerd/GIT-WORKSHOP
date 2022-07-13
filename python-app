@@ -1,2 +1,3 @@
 a + inupt('enter a name')
 print(a)
+print("iyi aksamlar")
